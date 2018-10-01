@@ -1,0 +1,10 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Aman Gautam"
+theme = "hyde-hyde"
+highlightjs = true
+postNavigation = true
+
+[params.social]
+	twitter = "_gautam"	
+	github = "aman-gautam"
